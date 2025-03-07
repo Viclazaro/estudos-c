@@ -9,7 +9,7 @@ int main(){
     printf("Digite um número:\n");
     scanf("%d", &u);
 
-    for (i = u; i >= 0; i--){
+    for (i = u; i >= 0; i--){ // inicialização, condição, incrementos
         
         printf("%d\n", i);
 
