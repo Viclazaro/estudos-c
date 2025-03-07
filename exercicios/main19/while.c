@@ -6,7 +6,7 @@ int main (){
     SetConsoleOutputCP(65001);
 
     int i = 0; //variavel inicial
-    while(i <= 10){ //condição
+    while(i <= 10){ //condição -- limite -- regra
         printf("%d\n", i); //imprimir 
         i++; //incremento
     }
